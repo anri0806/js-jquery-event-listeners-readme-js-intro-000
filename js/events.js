@@ -1,5 +1,5 @@
 //define functions here
-$('p').on("eventname", function getIt() {
+$('p').on("click", function getIt() {
 alert("Hey!")
 }
 
