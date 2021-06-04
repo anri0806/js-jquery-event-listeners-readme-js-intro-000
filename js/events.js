@@ -6,7 +6,10 @@ alert("Hey!")
 }
 
 function frameIt() {
-  $('img').on('load')
+  $('img').on('load', function() {
+    
+  }
+)
 }
 
 
